@@ -12,4 +12,7 @@ http://pcbheaven.com/wikipages/The_Hall_Sensor/
 http://en.wikipedia.org/wiki/Computer_fan
 http://pcbheaven.com/wikipages/How_PC_Fans_Work/
 
+Arduino attachInterrupt function
+http://arduino.cc/en/Reference/attachInterrupt
+
 
