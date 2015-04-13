@@ -13,6 +13,7 @@ http://en.wikipedia.org/wiki/Hall_effect_sensor
 http://pcbheaven.com/wikipages/The_Hall_Sensor/  
 http://en.wikipedia.org/wiki/Computer_fan
 http://pcbheaven.com/wikipages/How_PC_Fans_Work/
+http://gammon.com.au/interrupts
 
 Arduino attachInterrupt function
 http://arduino.cc/en/Reference/attachInterrupt
