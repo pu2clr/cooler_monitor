@@ -1,4 +1,7 @@
-# cooler_monitor
+# CPU cooler speed monitoring with Arduino
+
+
+
 Arduino - Monitorando a velocidade cooler de CPU
 
 Este projeto é sobre o monitoramento de cooler de CPU usando o Arduino.
